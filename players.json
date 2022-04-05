@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"jackgrealish1",
+         "name":"Jack Grealish",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"philfoden1",
+         "name":"Phil Foden",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"kevindebruyne1",
          "name":"Kevin de Bruyne",
          "animated_sticker_pack":false,
