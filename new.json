@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2122s1",
+         "name":"vs Real Madrid (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ucl2122s1a1",
+         "name":"vs Real Madrid (2)",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
          "identifier":"premier2122m34",
          "name":"vs Watford",
          "animated_sticker_pack":false,
