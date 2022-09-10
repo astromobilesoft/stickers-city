@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"erlinghalaand1",
+         "name":"Erling Halaand",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"julianalvarez1",
+         "name":"Julian Alvarez",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"ucl2223fg1a",
          "name":"vs Sevilla (1)",
          "animated_sticker_pack":false,
