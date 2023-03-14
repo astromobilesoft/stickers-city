@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2223o2a",
+         "name":"vs Leipzig (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"ucl2223o2b",
+         "name":"vs Leipzig (3)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"premier2223m27a",
          "name":"vs Crystal Palace (1)",
          "animated_sticker_pack":false,
