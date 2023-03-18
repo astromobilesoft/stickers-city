@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"facup2223c1",
+         "name":"vs Burnley (1)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"facup2223c2",
+         "name":"vs Burnley (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"ucl2223o2a",
          "name":"vs Leipzig (2)",
          "animated_sticker_pack":false,
