@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2223m31a",
+         "name":"vs Leicester (1)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"premier2223m31b",
+         "name":"vs Leicester (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
          "identifier":"ucl2223c1a",
          "name":"vs Bayern Muchich (1)",
          "animated_sticker_pack":false,
