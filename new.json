@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"facup2223s1",
+         "name":"vs Sheffield Utd (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"facup2223s2",
+         "name":"vs Sheffield Utd (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"ucl2223c2a",
          "name":"vs Bayern Muchich (1)",
          "animated_sticker_pack":false,
