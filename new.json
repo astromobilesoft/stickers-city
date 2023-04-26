@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2223m33a",
+         "name":"vs Arsenal (1)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"premier2223m33b",
+         "name":"vs Arsenal (2)",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"facup2223s1",
          "name":"vs Sheffield Utd (1)",
          "animated_sticker_pack":false,
