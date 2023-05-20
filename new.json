@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2223champion1",
+         "name":"Premier Champions",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
          "identifier":"ucl2223s2a",
          "name":"vs Real Madrid (1)",
          "animated_sticker_pack":false,
