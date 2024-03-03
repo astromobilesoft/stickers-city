@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"premier2324m27",
+         "name":"vs United",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"kit2324c",
          "name":"Jersey 23-24 (3)",
          "animated_sticker_pack":false,
