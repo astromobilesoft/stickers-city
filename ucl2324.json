@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2324o2a",
+         "name":"vs FC Copenhagen (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ucl2324o2b",
+         "name":"vs FC Copenhagen (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"ucl2324o1",
          "name":"vs FC Copenhagen (1)",
          "animated_sticker_pack":false,
