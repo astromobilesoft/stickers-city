@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"facup2324f2",
+         "name":"vs Chelsea",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"premier2324m33",
          "name":"vs Luton",
          "animated_sticker_pack":false,
