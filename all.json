@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"philfoden2",
+         "name":"Phil Foden (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"team2024",
          "name":"Team 2024-25",
          "animated_sticker_pack":false,
